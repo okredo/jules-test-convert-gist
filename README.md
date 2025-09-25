@@ -2,6 +2,8 @@
 
 This document summarizes the various languages, technologies, frameworks, and tools mentioned in the [learnings.md gist](https://gist.github.com/okredo/55880c1b8b729915e6a0a3f296997411).
 
+For a detailed, chronological breakdown of these learnings, please see the [Detailed Learnings by Year](./learnings-by-year.md) file.
+
 ## Languages
 *   Bash
 *   CSS
